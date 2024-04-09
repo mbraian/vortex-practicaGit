@@ -9,3 +9,6 @@ const main = () => {
 }
 
 export default main
+const saludo = (nombre) => {
+    console.log(`Hola, ${nombre}!`);
+};
